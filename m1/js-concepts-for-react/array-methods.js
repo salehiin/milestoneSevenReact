@@ -1,3 +1,7 @@
+
+
+
+// 1. map
 const products = [
     {name: 'laptop', price: 32000, brand: 'lenovo', color: 'silver'},
     {name: 'phone', price: 7000, brand: 'iphone', color: 'golden'},
@@ -11,7 +15,7 @@ const brands = products.map(product => product.brand);
 const prices = products.map(product => product.price);
 // console.log(prices);
 
-// 2. forEach
+// 2.  - if Return no need
 products.forEach(product => console.log(product))
 products.forEach(product => console.log(product.color))
 
