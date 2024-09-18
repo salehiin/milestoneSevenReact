@@ -53,5 +53,5 @@ isActive ? showUser() : hideUser();
 isActive && showUser(); // if left side true then rightside will be executed
 !isActive || hideUser(); // if left side false then rightside will be executed
 
-// toggle - for boolean
+// toggle - for boolean check
 isActive = !isActive;
