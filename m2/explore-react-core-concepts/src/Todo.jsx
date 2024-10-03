@@ -58,6 +58,12 @@
 
 // conditional rendering option: 6
 export default function Todo({task, isDone}){
+    const developerStyle = {
+        margin: '20px',
+        padding: '20px',
+        border: '2px solid purple',
+        borderRadius: '14px'
+      }
     let listItem;
     if(isDone){
              listItem = <li>Finished: {task}</li>
@@ -65,7 +71,7 @@ export default function Todo({task, isDone}){
     else{
         listItem = <li>Work on: {task}</li>
     }
-    return listItem;
+    return <div style={developerStyle}>{listItem}</div>;
 }
 
 

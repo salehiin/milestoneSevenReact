@@ -9,6 +9,8 @@
 # 38.5 - destructuring, default value of variable, 10:50 important(read only) - have to do again
 # 38.6 - props, destructuring - dynamically data pass, ternary operator
 # 38.7 - conditional rendering, logical &&, logical ||
+# 38.8 - data rendering, map - have to do again
+# 38.9 - recap, individual CSS file - have to do again
 
 
 
