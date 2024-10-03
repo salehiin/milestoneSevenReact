@@ -12,3 +12,8 @@ git push -u origin main
 git remote add origin https://github.com/salehiin/milestoneSevenReact.git
 git branch -M main
 git push -u origin main
+
+
+React is a library
+
+# 38.2
