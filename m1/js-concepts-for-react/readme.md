@@ -16,4 +16,18 @@ git push -u origin main
 
 React is a library
 
-# 38.2
+# Rewact core concepts
+1. Components
+2. JSX
+3. PROPS
+4. Event Handler
+5. State
+6. Load data
+
+# array- empty array, object - empty object, number - 0/1, boolean - true/false, string - empty string
+
+
+<!-- didn't check properly what he is doing -->
+<!-- sudhu porikkha nile to hobe na, age properly check korte hobe -->
+
+<!-- how much time he is teaching -->

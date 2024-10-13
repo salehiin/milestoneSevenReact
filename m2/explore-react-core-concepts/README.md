@@ -12,6 +12,17 @@
 # 38.8 - data rendering, map - have to do again
 # 38.9 - recap, individual CSS file - have to do again
 
+# 39.1 - 06:50 - 11:20 (important)
+# 39.2 - js VS react event handler syntex, react onClick, comparison normal, arrow & inline function, use peremeter, use {} if multiline, write handle(handleClick, handleMouseEnter) is convention
+# 39.3 - useState - state management, destructuring - have to watch again
+# 39.4 - internel CSS on componenet, useState
+# 39.5 - useEffect, useState, data render & show - very very important watch frequently
+# 39.6 - important VSCode settings, external CSS for component, organised data render & display - very very important watch frequently, important - 10:00
+# 39.7 - new project ready - recap
+# 39.8 - recap, react thinking(08:30) - important
+# 39.9 - react documentation
+    https://react.dev/learn
+
 
 
 
@@ -24,3 +35,6 @@
 # Pack your schedule
 # the more active you are the more you achive
 # -Seng Kosal(youtube)
+
+
+# after complete the project, it is easy to relate how anything works. So if after complete some project anyone try to recap core concepts, it makes sense and easy to understand
