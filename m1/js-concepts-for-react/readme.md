@@ -16,13 +16,13 @@ git push -u origin main
 
 React is a library
 
-# Rewact core concepts
+# React core concepts
 1. Components
 2. JSX
 3. PROPS
 4. Event Handler
 5. State
-6. Load data
+6. Load data - useEffect
 
 # array- empty array, object - empty object, number - 0/1, boolean - true/false, string - empty string
 

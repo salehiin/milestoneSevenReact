@@ -1,0 +1,15 @@
+
+.country{
+    display: flex;
+    /* justify-content: space-around; */
+    /* align-items: center; */
+    border: 2px solid seagreen;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.img-manage{
+    width: 100%;
+    height: 5rem;
+}

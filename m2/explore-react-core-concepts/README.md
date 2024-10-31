@@ -12,6 +12,7 @@
 # 38.8 - data rendering, map - have to do again
 # 38.9 - recap, individual CSS file - have to do again
 
+#           <!-- BASIC JSON DATA DISPLAY -->
 # 39.1 - 06:50 - 11:20 (important)
 # 39.2 - js VS react event handler syntex, react onClick, comparison normal, arrow & inline function, use peremeter, use {} if multiline, write handle(handleClick, handleMouseEnter) is convention
 # 39.3 - useState - state management, destructuring - have to watch again
@@ -22,6 +23,20 @@
 # 39.8 - recap, react thinking(08:30) - important
 # 39.9 - react documentation
     https://react.dev/learn
+
+# 40.1 - vite project ready, React Extension Pack- Rajbir Jawanda, manage components - project planning, data load - useState, useEffect
+# 40.2 - data show, get single item data from data collections(props, map), key, external css, destructuring
+# 40.3 - recap - very important to understand previous video, propTypes error handle
+# 40.4 - parent CSS, useState - clear
+# 40.5 - add conditional class, two condition toggle, conditional inline css, state & event handler should have in same place, useState, send function as props - should watch frequently
+# 40.6 - if have to use parameter in button event handler then have to wrap by an arrow function, spread operator[...], important conceptual
+# 40.7 - recap in different angle, in react push-pop etc should avoid in array/object instead make a new array using spread operator, sould read- https://react.dev/learn/updating-arrays-in-state, https://react.dev/learn/updating-objects-in-state
+# 40.8 - prop drilling - watch frequently
+# 40.9 - deploy - surge or netlify
+
+
+# https://restcountries.com/#endpoints-all
+
 
 
 
