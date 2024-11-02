@@ -1,0 +1,31 @@
+
+
+
+[
+    {
+      "id": 1,
+      "name": "Classic Silver Watch",
+      "price": 120
+    },
+    {
+      "id": 2,
+      "name": "Sporty Digital Watch",
+      "price": 85
+    },
+    {
+      "id": 3,
+      "name": "Luxury Gold Watch",
+      "price": 250
+    },
+    {
+      "id": 4,
+      "name": "Minimalist Black Watch",
+      "price": 95
+    },
+    {
+      "id": 5,
+      "name": "Eco-Friendly Bamboo Watch",
+      "price": 60
+    }
+  ]
+  
