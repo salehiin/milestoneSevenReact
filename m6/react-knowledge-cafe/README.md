@@ -53,6 +53,9 @@
 # 42.7 - important concep(01:40), click on mark as read & display-add(increase) reading time
 # 42.8 - deploy on surge, install chrome extension(React Developer Tools), error handle(unique key(index)), concep, remove the read blog from bookmark, 
 
+# 43_5.1
+# 43_5.2 - important concep(SSR & CSR)
+
 # https://restcountries.com/#endpoints-all
 
 # process of data load
