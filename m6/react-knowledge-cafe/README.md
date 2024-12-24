@@ -49,8 +49,9 @@
 # 42.3 - font implement, local image use, layout design, data quantity check, propTypes
 # 42.4 - destructuring, dynamic data load, map, show data of array under a data object
 # 42.5 - very important concep(07:30), add bookmark by click button(onClick)
-# 42.6 - 
-
+# 42.6 - on click bookmark added & read blogs added to bookmarks section, Better React extension
+# 42.7 - important concep(01:40), click on mark as read & display-add(increase) reading time
+# 42.8 - deploy on surge, install chrome extension(React Developer Tools), error handle(unique key(index)), concep, remove the read blog from bookmark, 
 
 # https://restcountries.com/#endpoints-all
 
