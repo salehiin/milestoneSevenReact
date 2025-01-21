@@ -1,4 +1,5 @@
-
+# 37.1
+# 37.8 
 # 38-1 Basic concept about react
 # 38.2 React introduced, component - building blocks of a website - important conceptual
 # 38.3 JSX for JS XML/JS syntex extension - a system to write html in js - very important conceptual
