@@ -1,5 +1,9 @@
-# 37.1
+# 37.1 - variable - let/const, condition - if else, array - [], loop - for/while, function - function(){}, object - {}, access property - 3 ways(property, string, variable), - should watch frequently 
+# 37.2 - template string, arrow function, spread operator
+# 37.3 - map - make an array from values of an array of objects - products.map(product => product.brand), forEach - products.forEach(product => console.log(product))/products.forEach(product => console.log(product.color))/products.forEach(product => console.log(product){}), filter - products.filter(product => product.price <= 5000), includes - products.filter(product => product.name.includes('n')), find - products.find(product => product.name.includes('n'))
+# 37.4 -  
 # 37.8 
+
 # 38-1 Basic concept about react
 # 38.2 React introduced, component - building blocks of a website - important conceptual
 # 38.3 JSX for JS XML/JS syntex extension - a system to write html in js - very important conceptual
