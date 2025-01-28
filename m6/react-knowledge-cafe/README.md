@@ -1,7 +1,10 @@
 # 37.1 - variable - let/const, condition - if else, array - [], loop - for/while, function - function(){}, object - {}, access property - 3 ways(property, string, variable), - should watch frequently 
 # 37.2 - template string, arrow function, spread operator
 # 37.3 - map - make an array from values of an array of objects - products.map(product => product.brand), forEach - products.forEach(product => console.log(product))/products.forEach(product => console.log(product.color))/products.forEach(product => console.log(product){}), filter - products.filter(product => product.price <= 5000), includes - products.filter(product => product.name.includes('n')), find - products.find(product => product.name.includes('n'))
-# 37.4 -  
+# 37.4 - destructuring - array/object, optional chaining
+# 37.5 - stringify, parse, concept, fetch, Object.keys(student), Object.values(student), forEach - array, map - return, for of - array like ogject, for in - key or value of object, [...products, newProduct] -  add/remove from an array of object(copy array then add newProduct), filter - create new array without an item
+# 37.6 - '', 0, false, null, undefined - falsy || 'abu', 5, true, {}, [] - truthy, useCase of truthy & falsy - important, ternary(condition) - let food = money > 100 ? 'biryani' : 'bhat';, number to string convert using + - vice versa, call function using ternary, &&/||, toogle boolean(!)
+# - 
 # 37.8 
 
 # 38-1 Basic concept about react
