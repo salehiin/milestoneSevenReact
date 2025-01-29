@@ -5,7 +5,8 @@
 # 37.5 - stringify, parse, concept, fetch, Object.keys(student), Object.values(student), forEach - array, map - return, for of - array like ogject, for in - key or value of object, [...products, newProduct] -  add/remove from an array of object(copy array then add newProduct), filter - create new array without an item
 # 37.6 - '', 0, false, null, undefined - falsy || 'abu', 5, true, {}, [] - truthy, useCase of truthy & falsy - important, ternary(condition) - let food = money > 100 ? 'biryani' : 'bhat';, number to string convert using + - vice versa, call function using ternary, &&/||, toogle boolean(!)
 # - 
-# 37.8 
+# 37.7 - session & local storage - concep, localStorage.clear/getItem/setItem/update, set items in local storage, set array/object in local storage as json stingyfy, get array/object in local storage as json parse, 
+# 37.8 - 
 
 # 38-1 Basic concept about react
 # 38.2 React introduced, component - building blocks of a website - important conceptual
