@@ -6,7 +6,7 @@
 # 37.6 - '', 0, false, null, undefined - falsy || 'abu', 5, true, {}, [] - truthy, useCase of truthy & falsy - important, ternary(condition) - let food = money > 100 ? 'biryani' : 'bhat';, number to string convert using + - vice versa, call function using ternary, &&/||, toogle boolean(!)
 # - 
 # 37.7 - session & local storage - concep, localStorage.clear/getItem/setItem/update, set items in local storage, set array/object in local storage as json stingyfy, get array/object in local storage as json parse, 
-# 37.8 - 
+# 37.8 - dot/bracket notation 
 
 # 38-1 Basic concept about react
 # 38.2 React introduced, component - building blocks of a website - important conceptual
